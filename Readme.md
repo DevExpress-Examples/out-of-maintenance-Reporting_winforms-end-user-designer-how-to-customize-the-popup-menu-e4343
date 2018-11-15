@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/E4343/Form1.cs) (VB: [Form1.vb](./VB/E4343/Form1.vb))
+* [Program.cs](./CS/E4343/Program.cs) (VB: [Program.vb](./VB/E4343/Program.vb))
+<!-- default file list end -->
 # WinForms End-User Designer - How to customize the popup-menu
 
 
